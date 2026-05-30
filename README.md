@@ -1,9 +1,6 @@
 # FUTURE_DS_03
 # 📊 Marketing Funnel & Conversion Performance Dashboard — Power BI
 
-![Power BI](https://img.shields.io/badge/Tool-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
-![Internship](https://img.shields.io/badge/Project-Future%20Intern-blue?style=for-the-badge)
 
 ## 📌 Project Overview
 
@@ -69,7 +66,7 @@ The dashboard translates raw campaign data into clear, actionable insights to he
 
 ## 📸 Dashboard Preview
 
-![Dashboard Preview](images/dashboard_preview.png)
+![Dashboard Preview](FUTURE_INTERN_03_POWERBI F page one-images-0.jpg)
 
 ---
 
