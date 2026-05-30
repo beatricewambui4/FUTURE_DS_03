@@ -67,6 +67,7 @@ The dashboard translates raw campaign data into clear, actionable insights to he
 ## 📸 Dashboard Preview
 
 ![Dashboard Preview](FUTURE_INTERN_03_POWERBI F page one-images-0.jpg)
+![Insights & Recommendations].(FUTURE_INTERN_03_POWERBI F page one-images-1.png)
 
 ---
 
