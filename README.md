@@ -67,7 +67,6 @@ The dashboard translates raw campaign data into clear, actionable insights to he
 ## 📸 Dashboard Preview
 
 ![Dashboard Preview](pageone dashboard.PNG)
-![Insights & Recommendations].(dashboard page 2.png)
 
 ---
 
