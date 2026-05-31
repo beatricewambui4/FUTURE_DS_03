@@ -29,6 +29,9 @@ The dashboard translates raw campaign data into clear, actionable insights to he
 - **Focus marketing efforts** on high-converting audience segments (students & retirees)
 - **Expand campaigns** during high-performing months: March, December, and September
 - **Reduce resources** allocated to low-performing contact strategies
+  
+<img src="dashboard page 2.png" width="800">
+
 
 ---
 
@@ -67,7 +70,6 @@ The dashboard translates raw campaign data into clear, actionable insights to he
 ## 📸 Dashboard Preview
 
 <img src="pageone dashboard.PNG" width="800">
-<img src="dashboard page 2.png" width="800">
 
 ---
 
